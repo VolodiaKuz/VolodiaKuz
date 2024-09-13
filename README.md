@@ -4,6 +4,7 @@
 - 📫 How to reach me:
 - email: v.kuzmenko.g@gmail.com
 - telegram: @volodiakuz
+- linkedin: https://www.linkedin.com/in/vladimir-kuz/
 
 
 🧛‍♂️🧛‍♂️💎⛏💾⚡⛄🔥
