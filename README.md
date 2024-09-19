@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vladimir Kuzmenko, medical equipment repair engineer with 5+ years of experience
+Vladimir Kuzmenko, medical equipment repair engineer with 5+ years of experience
 - 💻 Now I’m currently learning JavaScript on educational platform Hexlet (my profile: https://ru.hexlet.io/u/wtraktorman)
 - 👀 I’m interested in job as a frontend-developer
 - 📫 How to reach me:
